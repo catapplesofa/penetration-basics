@@ -25,4 +25,3 @@ while True:
     clientsocket.send(message)
 
     clientsocket.close()
-    sss
